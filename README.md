@@ -8,5 +8,5 @@ What is needed for this project?
 - arduino uno or mega
 - gas sensor (mq135)
 - humidity sensor (bme280)
-- lcd alphanumeric display (we tried with 16x2)
+- lcd alphanumeric display (I tried with 16x2)
 
